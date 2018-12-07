@@ -1,8 +1,8 @@
 ---
 title: 孤独之旅一：河上一周
 date: 2018-05-09 10:20:40
-categories: 书与生活
-tags: 阅读
+categories: 阅读
+tags: 散文
 ---
 ![](http://bmob-cdn-18766.b0.upaiyun.com/2018/05/09/f374ab9340e3221c8082f894a4cb8d47.jpg)
  ## 一，阅读小记

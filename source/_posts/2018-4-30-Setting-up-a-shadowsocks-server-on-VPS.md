@@ -1,8 +1,8 @@
 ---
 title: 通过VPS搭建VPN
 date: 2018-04-30 19:46:49
-categories: Linux
-tags: 计算机
+categories: 计算机
+tags: Linux
 
 ---
 * 一，安装python
