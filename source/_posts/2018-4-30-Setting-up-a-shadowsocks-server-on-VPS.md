@@ -50,7 +50,8 @@ https://github.com/shadowsocks/shadowsocks-android/releases
 
 * 五，后台启动Shadowsocs
 >``` bash
-ssserver -c /etc/shadowsocks.json -d start
+>ssserver -c /etc/shadowsocks.json -d start
+>```
 ```
 
 
@@ -59,7 +60,7 @@ ssserver -c /etc/shadowsocks.json -d start
 
 * 六，shadowsocks2.8.2启动报undefined symbol: EVP_CIPHER_CTX_cleanup错误
 > 1，vim编辑：
-``` bash
+​``` bash
 vim /usr/local/lib/python2.7/dist-packages/shadowsocks/crypto/openssl.py
 （具体修改路径自定）
 ```
