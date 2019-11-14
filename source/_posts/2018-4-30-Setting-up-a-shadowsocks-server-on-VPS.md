@@ -17,6 +17,8 @@ tags: Linux
 ``` bash
 vi /etc/shadowsocks.json
 ```
+ <!-- more --> 
+
 * 单人连接
 ``` bash
  { "server":"你的服务器地址", 
